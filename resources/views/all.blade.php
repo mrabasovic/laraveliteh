@@ -122,7 +122,7 @@ body {
 }
 .food-list .food-like {
   font-size: 10px;
-  width: 20px;
+  width: 21px;
   height: 20px;
 }
 
